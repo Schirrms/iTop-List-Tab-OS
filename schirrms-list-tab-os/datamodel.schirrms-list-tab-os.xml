@@ -34,6 +34,7 @@
 					<count_min>0</count_min>
 					<count_max>0</count_max>
 				</field>
+				<!--
 				<field id="virtualdeviceosversions_list" xsi:type="AttributeLinkedSet" _delta="define">
 					<linked_class>VirtualDevice</linked_class>
 					<ext_key_to_me>osversion_id</ext_key_to_me>
@@ -66,6 +67,7 @@
 					<count_min>0</count_min>
 					<count_max>0</count_max>
 				</field>
+				-->
 			</fields>
 			<presentation>
 				<details>
