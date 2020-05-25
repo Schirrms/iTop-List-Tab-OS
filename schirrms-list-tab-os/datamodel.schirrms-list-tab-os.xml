@@ -73,6 +73,7 @@
 						<item id="serverosversions_list" _delta="define">
 							<rank>30</rank>
 						</item>
+						<!--
 						<item id="virtualdeviceosversions_list" _delta="define">
 							<rank>40</rank>
 						</item>
@@ -85,6 +86,7 @@
 						<item id="oslicenceosversions_list" _delta="define">
 							<rank>70</rank>
 						</item>
+						-->
 					</items>
 				</details>
 			</presentation>

@@ -13,6 +13,6 @@ Dict::Add('FR FR', 'French', 'Français', array(
 	'Class:OSVersion/Attribute:connectableciosversions_list' => 'CIs connectés l\'utilisant',
 	'Class:OSVersion/Attribute:ospatchosversions_list' => 'Patches OS l\'utilisant',
 	'Class:OSVersion/Attribute:oslicenceosversions_list' => 'Licences OS l\'utilisant',
-	'Class:OSFamily/Attribute:osfamilys_list' => 'OS Versions',
+	'Class:OSFamily/Attribute:osfamilys_list' => 'Versions de l\'OS',
 ));
 ?>
