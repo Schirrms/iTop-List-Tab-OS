@@ -42,7 +42,6 @@
 					<count_min>0</count_min>
 					<count_max>0</count_max>
 				</field>
-				<!--
 				<field id="connectableciosversions_list" xsi:type="AttributeLinkedSet" _delta="define">
 					<linked_class>ConnectableCI</linked_class>
 					<ext_key_to_me>osversion_id</ext_key_to_me>
@@ -67,7 +66,6 @@
 					<count_min>0</count_min>
 					<count_max>0</count_max>
 				</field>
-				-->
 			</fields>
 			<presentation>
 				<details>
@@ -78,7 +76,6 @@
 						<item id="virtualmachineosversions_list" _delta="define">
 							<rank>40</rank>
 						</item>
-						<!--
 						<item id="connectableciosversions_list" _delta="define">
 							<rank>50</rank>
 						</item>
@@ -88,7 +85,6 @@
 						<item id="oslicenceosversions_list" _delta="define">
 							<rank>70</rank>
 						</item>
-						-->
 					</items>
 				</details>
 			</presentation>
