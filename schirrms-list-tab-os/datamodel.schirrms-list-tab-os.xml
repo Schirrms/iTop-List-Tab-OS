@@ -5,7 +5,7 @@
 	<classes>
 		<class id="OSFamily" _delta="must_exist">
 			<properties>
-				<icon _delta="redefine">../schirrms-list-tab-os/assets/img/os-family.png</icon>
+				<icon _delta="redefine">../schirrms-list-tab-os/assets/img/os-family.svg</icon>
 				<style _delta="if_exists">
 					<icon _delta="redefine">../schirrms-list-tab-os/assets/img/os-family.svg</icon>
 				</style>
