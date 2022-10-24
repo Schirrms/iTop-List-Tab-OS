@@ -4,7 +4,7 @@
 	</constants>
 	<classes>
 		<class id="OSFamily" _delta="must_exist">
-			<proprerties>
+			<properties>
 				<style>
 					<icon _delta="define">schirrms-list-tab/assets/img/osfamily.png</icon>
 				</style>
@@ -30,7 +30,7 @@
 			</presentation>
 		</class>
 		<class id="OSVersion" _delta="must_exist">
-			<proprerties>
+			<properties>
 				<style>
 					<icon _delta="define">schirrms-list-tab/assets/img/osversion.png</icon>
 				</style>
