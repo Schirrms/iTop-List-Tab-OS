@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240"
+   height="240"
+   viewBox="0 0 2.5 2.5"
+   version="1.1"
+   id="svg306"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="os-version.svg"
+   inkscape:export-filename=".\os-family.png"
+   inkscape:export-xdpi="19.200001"
+   inkscape:export-ydpi="19.200001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview308"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.1513749"
+     inkscape:cx="326.39789"
+     inkscape:cy="115.5039"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs303">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3556">
+      <stop
+         style="stop-color:#802d00;stop-opacity:1;"
+         offset="0"
+         id="stop3552" />
+      <stop
+         style="stop-color:#ffede3;stop-opacity:1;"
+         offset="1"
+         id="stop3554" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3556"
+       id="linearGradient3558"
+       x1="0.035128925"
+       y1="0.040147342"
+       x2="2.4665523"
+       y2="2.4565156"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.0104167"
+       id="path423"
+       cx="1.250841"
+       cy="1.2533503"
+       rx="1.2483318"
+       ry="1.250841" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.125px;fill:#ffffff;stroke-width:0.0104167"
+       x="0.84058529"
+       y="1.088997"
+       id="text531"><tspan
+         sodipodi:role="line"
+         id="tspan529"
+         style="stroke-width:0.0104167" /></text>
+    <ellipse
+       style="fill:url(#linearGradient3558);stroke-width:0.0104167;fill-opacity:1"
+       id="path645"
+       cx="1.2495865"
+       cy="1.2546047"
+       rx="1.2194759"
+       ry="1.2144575" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.841442px;fill:#ffffff;stroke-width:0.07012"
+       x="0.71227616"
+       y="0.9880749"
+       id="text2782"
+       transform="scale(0.91113998,1.0975262)"
+       inkscape:highlight-color="#f375c2"><tspan
+         sodipodi:role="line"
+         id="tspan2780"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.07012"
+         x="0.71227616"
+         y="0.9880749">OS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.533651px;fill:#ffffff;stroke-width:0.0444712"
+       x="0.4197576"
+       y="1.4676737"
+       id="text2850"
+       transform="scale(0.79252811,1.2617849)"><tspan
+         sodipodi:role="line"
+         id="tspan2848"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';stroke-width:0.0444712"
+         x="0.4197576"
+         y="1.4676737">Version</tspan></text>
+  </g>
+</svg>

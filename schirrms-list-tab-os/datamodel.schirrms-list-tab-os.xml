@@ -4,6 +4,11 @@
 	</constants>
 	<classes>
 		<class id="OSFamily" _delta="must_exist">
+			<proprerties>
+				<style>
+					<icon _delta="define">schirrms-list-tab/assets/img/osfamily.png</icon>
+				</style>
+			</properties>
 			<fields>
 				<field id="osfamilys_list" xsi:type="AttributeLinkedSet" _delta="define">
 					<linked_class>OSVersion</linked_class>
@@ -25,6 +30,11 @@
 			</presentation>
 		</class>
 		<class id="OSVersion" _delta="must_exist">
+			<proprerties>
+				<style>
+					<icon _delta="define">schirrms-list-tab/assets/img/osversion.png</icon>
+				</style>
+			</properties>
 			<fields>
 				<field id="serverosversions_list" xsi:type="AttributeLinkedSet" _delta="define">
 					<linked_class>Server</linked_class>
