@@ -6,7 +6,7 @@
 		<class id="OSFamily" _delta="must_exist">
 			<properties>
 				<style>
-					<icon _delta="redefine">../schirrms-list-tab-os/assets/img/os-family.svg</icon>
+					<icon _delta="redefine">../schirrms-list-tab-os/assets/img/os-family.png</icon>
 				</style>
 			</properties>
 			<fields>
@@ -32,7 +32,7 @@
 		<class id="OSVersion" _delta="must_exist">
 			<properties>
 				<style>
-					<icon _delta="redefine">../schirrms-list-tab-os/assets/img/os-version.svg</icon>
+					<icon _delta="redefine">../schirrms-list-tab-os/assets/img/os-version.png</icon>
 				</style>
 			</properties>
 			<fields>
